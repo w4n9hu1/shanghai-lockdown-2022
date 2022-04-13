@@ -1,13 +1,13 @@
 ---
-description: the timeline of lockdown in shanghai
+description: 每天五到十条，主流媒体为主，附带一些个人声音。
 ---
 
-# summaries
+# shanghai-lockdown-2022
 
-### 感染人数
+### 单日感染人数
 
 | 日期        | 确诊   | 无症状   |
 | --------- | ---- | ----- |
-| 2022-4-22 | 1189 | 25141 |
+| 2022-4-12 | 1189 | 25141 |
 | tbd.      |      |       |
 
