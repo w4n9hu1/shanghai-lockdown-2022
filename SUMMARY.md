@@ -31,11 +31,11 @@
 * [4-13](april/4-13.md)
 * [4-14](april/4-14.md)
 * [4-15](april/4-15.md)
+* [4-16](april/4-16.md)
 
 ## Long
 
 * [哮喘病人120事件当事人微博](long/xiao-chuan-bing-ren-120-shi-jian-dang-shi-ren-wei-bo.md)
 * [上海徐汇区永康街道市民求救电话](long/shang-hai-xu-hui-qu-yong-kang-jie-dao-shi-min-qiu-jiu-dian-hua.md)
-* [分区防控有关事项通告](long/fen-qu-fang-kong-you-guan-shi-xiang-tong-gao.md)
 * [“误判”阳性上海夫妻崩溃](long/wu-pan-yang-xing-shang-hai-fu-qi-beng-kui.md)
 * [上海人的忍耐已经到了极限](long/shang-hai-ren-de-ren-nai-yi-jing-dao-le-ji-xian.md)
