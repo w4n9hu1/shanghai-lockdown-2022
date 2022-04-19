@@ -34,6 +34,7 @@
 * [4-16](april/4-16.md)
 * [4-17](april/4-17.md)
 * [4-18](april/4-18.md)
+* [4-19](april/4-19.md)
 
 ## Long
 
@@ -41,3 +42,5 @@
 * [上海徐汇区永康街道市民求救电话](long/shang-hai-xu-hui-qu-yong-kang-jie-dao-shi-min-qiu-jiu-dian-hua.md)
 * [“误判”阳性上海夫妻崩溃](long/wu-pan-yang-xing-shang-hai-fu-qi-beng-kui.md)
 * [上海人的忍耐已经到了极限](long/shang-hai-ren-de-ren-nai-yi-jing-dao-le-ji-xian.md)
+* [关于动态清零及其相关误解](long/guan-yu-dong-tai-qing-ling-ji-qi-xiang-guan-wu-jie.md)
+* [不要把我94岁的外婆拉去方舱](long/bu-yao-ba-wo-94-sui-de-wai-po-la-qu-fang-cang.md)
