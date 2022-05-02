@@ -47,6 +47,11 @@
 * [4-29](april/4-29.md)
 * [4-30](april/4-30.md)
 
+## May
+
+* [5-1](may/5-1.md)
+* [5-2](may/5-2.md)
+
 ## Long
 
 * [哮喘病人120事件当事人微博](long/xiao-chuan-bing-ren-120-shi-jian-dang-shi-ren-wei-bo.md)
@@ -55,3 +60,4 @@
 * [上海人的忍耐已经到了极限](long/shang-hai-ren-de-ren-nai-yi-jing-dao-le-ji-xian.md)
 * [关于动态清零及其相关误解](long/guan-yu-dong-tai-qing-ling-ji-qi-xiang-guan-wu-jie.md)
 * [不要把我94岁的外婆拉去方舱](long/bu-yao-ba-wo-94-sui-de-wai-po-la-qu-fang-cang.md)
+* [上海复工复产50问](long/shang-hai-fu-gong-fu-chan-50-wen.md)
