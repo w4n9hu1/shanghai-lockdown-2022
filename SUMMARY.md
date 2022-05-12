@@ -52,6 +52,13 @@
 * [5-1](may/5-1.md)
 * [5-2](may/5-2.md)
 * [5-5](may/5-5.md)
+* [5-5](may/5-5-1.md)
+* [5-6](may/5-6.md)
+* [5-7](may/5-7.md)
+* [5-8](may/5-8.md)
+* [5-10](may/5-10.md)
+* [5-11](may/5-11.md)
+* [5-12](may/5-12.md)
 
 ## Long
 
@@ -60,5 +67,7 @@
 * [“误判”阳性上海夫妻崩溃](long/wu-pan-yang-xing-shang-hai-fu-qi-beng-kui.md)
 * [上海人的忍耐已经到了极限](long/shang-hai-ren-de-ren-nai-yi-jing-dao-le-ji-xian.md)
 * [关于动态清零及其相关误解](long/guan-yu-dong-tai-qing-ling-ji-qi-xiang-guan-wu-jie.md)
+* [关于进一步提高全国防疫工作科学性的建议](long/guan-yu-jin-yi-bu-ti-gao-quan-guo-fang-yi-gong-zuo-ke-xue-xing-de-jian-yi.md)
 * [不要把我94岁的外婆拉去方舱](long/bu-yao-ba-wo-94-sui-de-wai-po-la-qu-fang-cang.md)
 * [上海复工复产50问](long/shang-hai-fu-gong-fu-chan-50-wen.md)
+* [对上海新冠防疫两措施的法律意见](long/dui-shang-hai-xin-guan-fang-yi-liang-cuo-shi-de-fa-lv-yi-jian.md)
